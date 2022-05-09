@@ -7,7 +7,6 @@
 - I like to continue learning and learning from others
 
 ## Personal Stuff 🙋🏻‍♂️
-- I'm currently a student of Facultad de Matematicas at Mexico 🇲🇽
 - I like to workout 🏋🏻‍♂️
 - I'm a fan of technology since I was a kid 📱
 - Apple Fanboy 😶
