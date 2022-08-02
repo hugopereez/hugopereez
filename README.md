@@ -12,8 +12,7 @@
 - Apple Fanboy 😶
 
 ## Current Status 
-### Full Stack Developer @ [Experium Inc.](https://experium.app)
-### Senior Engineer @ [Unbounce](https://unbounce.com)
+### Backend Developer @ [Unbounce](https://unbounce.com)
 
 ## Languages
 
