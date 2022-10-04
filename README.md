@@ -12,7 +12,7 @@
 - Apple Fanboy 😶
 
 ## Current Status 
-### Backend Developer @ [Unbounce](https://unbounce.com)
+### Full Stack Developer @ [STOA](https://betterwithstoa.com/)
 
 ## Languages
 
