@@ -6,11 +6,6 @@
 - I have worked on projects of different purposes
 - I like to continue learning and learning from others
 
-## Personal Stuff 🙋🏻‍♂️
-- I like to workout 🏋🏻‍♂️
-- I'm a fan of technology since I was a kid 📱
-- Apple Fanboy 😶
-
 ## Current Status 
 ### Full Stack Developer @ [STOA](https://betterwithstoa.com/)
 
