@@ -1,11 +1,5 @@
 ### Hey 👋, I'm Hugo Perez.
 
-## About Me 
-- I'm 25 😅
-- I have 4+ years of experience in Web Development. 👨🏻‍💻
-- I have worked on projects of different purposes
-- I like to continue learning and learning from others
-
 ## Current Status 
 ### Full Stack Developer @ [STOA](https://betterwithstoa.com/)
 
